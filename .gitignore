@@ -123,6 +123,7 @@
 !/firmware/camera/vendor/cjson/cJSON.h
 !/server/
 /server/*
+!/server/README.md
 !/server/account.html
 !/server/actor_assessment.py
 !/server/admin.html
